@@ -52,10 +52,10 @@ The design mimics Spotify's aesthetic with a clean and modern interface.
 
 
 ### **Sign In Page**  
-![Sign In Page](https://via.placeholder.com/800x400)  
+  
 
 ### **Sign Up Page**  
-![Sign Up Page](https://via.placeholder.com/800x400)  
+  
 
 ---
 
